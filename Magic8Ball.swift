@@ -1,6 +1,6 @@
 let playerName = "Ben"
 
-let playerQuestion = "Will there be any more snowfall in New York for winter 2020? ❄️" 
+let playerQuestion = "Will there be any more snowfall in New York for winter 2024? ❄️" 
 
 let randomNumber = Int.random(in: 1...9)
 // print(randomNumber)
